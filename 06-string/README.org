@@ -1,0 +1,10 @@
+* 문자열 - 01
+- 책 선정 : 파이썬 알고리즘 인터뷰
+ #+DOWNLOADED: screenshot @ 2021-10-15 19:34:30
+ #+attr_html: :width 800px
+ #+attr_latex: :width 20cm
+ #+attr_org: :width 400px
+ 
+** 01-3.py
+풀이 2) 데크 자료형을 이용한 최적화
+    - [ ] 1) str_deque: Deque = collections.deque()
